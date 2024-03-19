@@ -25,6 +25,8 @@
   }
   .menu-label {
     display: flex;
+    flex-direction: column;
+    gap: 4px;
     cursor: pointer;
     order: 2;
   }
